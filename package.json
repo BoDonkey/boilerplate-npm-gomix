@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Robert Means"
+	"author": "Robert Means",
+	"description": "This is a FreeCodeCamp challenge"
 }
